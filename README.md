@@ -1,2 +1,2 @@
-# proyDjango
+# proyAlgortimos
 proyectoProgramaci{onEstructuradaEnDjango
